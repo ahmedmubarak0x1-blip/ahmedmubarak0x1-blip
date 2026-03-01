@@ -1,39 +1,33 @@
-<!-- 🔥 NEW TOP GIF BANNER -->
+<!-- 🔥 TOP GIF BANNER -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" width="100%" />
 </p>
 
 <br>
 
-
+<br>
 
 <!-- 👑 PROFILE SECTION -->
 <table width="100%">
 <tr>
 
-<!-- الصورة الشخصية -->
-<td align="center" width="25%">
+<td align="center" width="30%">
 <img src="https://i.pinimg.com/736x/11/30/0a/11300ab727c38dd5f9149fafe006bca7.jpg" width="180px" style="border-radius:50%;">
 </td>
 
-<!-- الاسم -->
-<td align="center" width="50%">
+<td align="center" width="70%">
 
 # Eng. Ahmed Mubarak 👑
 
 ### 𓂀 Pharaoh of the Digital Age | أنا لَسْتُ مِثْلَهُم، أنا مَثَلٌ لَهُمْ.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Prompt+Engineer;Frontend+Developer;Automation+Builder;n8n+Workflow+Expert;Competitive+Programmer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Prompt+Engineer;Frontend+Developer;Automation+Builder;n8n+Workflow+Expert;Competitive+Programmer" />
 
-</td>
-
-<!-- البطريق -->
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="170px">
 </td>
 
 </tr>
 </table>
+
 ---
 
 ## 🌍 Connect With Me
@@ -61,9 +55,10 @@
 
 ## 👑 About Me
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" width="60%" />
-</p>
+<table width="100%">
+<tr width="100%">
+
+<td width="75%">
 
 - 🤖 AI & Automation Enthusiast  
 - 🧠 Advanced Prompt Engineer  
@@ -76,6 +71,23 @@
 - 🧾 JSON & APIs  
 - 🧠 Competitive Programmer  
 - 🛡 Cybersecurity Basics  
+
+</td>
+
+<td align="right" width="100%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="220px">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" width="60%" />
+</p>
 
 ---
 
@@ -105,18 +117,6 @@
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmubarak0x1-blip&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmubarak0x1-blip&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
