@@ -2,7 +2,7 @@
   <img src="YOUR_IMAGE_LINK_HERE" width="100%" />
 </p>
 
-<h1 align="center">Eng. Ahmed Mubarak 👑</h1>
+<h1 align="center">Eng. Ahmed Mubarak </h1>
 
 <h3 align="center">
 𓂀 Pharaoh of the Digital Age <br>
@@ -13,6 +13,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Enthusiast;Frontend+Developer;Problem+Solver;Arduino+%26+Raspberry+Pi+Explorer;Continuous+Learner+🚀" />
 </p>
 
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linktr.ee/ahmed.mubarak1">
+    <img src="https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree">
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-mubarak-8564aa303">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://url-shortener.me/APJD">
+    <img src="https://img.shields.io/badge/WhatsApp_Business-000?style=for-the-badge&logo=whatsapp">
+  </a>
+  <a href="mailto:ahmed.mubarak0x1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 ---
 
 ## 👑 About Me
@@ -83,22 +99,7 @@
 
 ---
 
-## 🌍 Connect With Me
 
-<p align="center">
-  <a href="https://linktr.ee/ahmed.mubarak1">
-    <img src="https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree">
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-mubarak-8564aa303">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://url-shortener.me/APJD">
-    <img src="https://img.shields.io/badge/WhatsApp_Business-000?style=for-the-badge&logo=whatsapp">
-  </a>
-  <a href="mailto:ahmed.mubarak0x1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
-  </a>
-</p>
 
 ---
 
