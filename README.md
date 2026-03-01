@@ -1,6 +1,6 @@
 <!-- 🔥 TOP GIF BANNER -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif"  width="70%" height="220px" />
 </p>
 
 <br>
