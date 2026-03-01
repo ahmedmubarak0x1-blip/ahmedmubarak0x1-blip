@@ -1,28 +1,39 @@
-<!-- 🔥 TOP GIF BANNER -->
+<!-- 🔥 NEW TOP GIF BANNER -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" width="100%" />
 </p>
 
 <br>
 
-<!-- 👑 PROFILE + NAME + TYPING -->
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://i.pinimg.com/736x/11/30/0a/11300ab727c38dd5f9149fafe006bca7.jpg" width="130px" style="border-radius:50%;" />
-      </td>
-      <td>
-        <h1>Eng. Ahmed Mubarak 👑</h1>
-        <h3>
-        𓂀 Pharaoh of the Digital Age &nbsp; | &nbsp; أنا لَسْتُ مِثْلَهُم، أنا مَثَلٌ لَهُمْ.
-        </h3>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=AI+Engineer;Prompt+Engineer;Frontend+Developer;Automation+Builder;n8n+Workflow+Expert;Competitive+Programmer" />
-      </td>
-    </tr>
-  </table>
-</p>
 
+
+<!-- 👑 PROFILE SECTION -->
+<table width="100%">
+<tr>
+
+<!-- الصورة الشخصية -->
+<td align="center" width="25%">
+<img src="https://i.pinimg.com/736x/11/30/0a/11300ab727c38dd5f9149fafe006bca7.jpg" width="180px" style="border-radius:50%;">
+</td>
+
+<!-- الاسم -->
+<td align="center" width="50%">
+
+# Eng. Ahmed Mubarak 👑
+
+### 𓂀 Pharaoh of the Digital Age | أنا لَسْتُ مِثْلَهُم، أنا مَثَلٌ لَهُمْ.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Prompt+Engineer;Frontend+Developer;Automation+Builder;n8n+Workflow+Expert;Competitive+Programmer" />
+
+</td>
+
+<!-- البطريق -->
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="170px">
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🌍 Connect With Me
