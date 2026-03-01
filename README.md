@@ -1,110 +1,110 @@
+<!-- 🔥 TOP GIF BANNER -->
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" width="100%" />
 </p>
 
-<h1 align="center">Eng. Ahmed Mubarak </h1>
+<br>
 
-<h3 align="center">
-𓂀 Pharaoh of the Digital Age <br>
-أنا لَسْتُ مِثْلَهُم، أنا مَثَلٌ لَهُمْ.
-</h3>
-
+<!-- 👑 PROFILE + NAME + TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Enthusiast;Frontend+Developer;Problem+Solver;Arduino+%26+Raspberry+Pi+Explorer;Continuous+Learner+🚀" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://i.pinimg.com/736x/11/30/0a/11300ab727c38dd5f9149fafe006bca7.jpg" width="130px" style="border-radius:50%;" />
+      </td>
+      <td>
+        <h1>Eng. Ahmed Mubarak 👑</h1>
+        <h3>
+        𓂀 Pharaoh of the Digital Age &nbsp; | &nbsp; أنا لَسْتُ مِثْلَهُم، أنا مَثَلٌ لَهُمْ.
+        </h3>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=AI+Engineer;Prompt+Engineer;Frontend+Developer;Automation+Builder;n8n+Workflow+Expert;Competitive+Programmer" />
+      </td>
+    </tr>
+  </table>
 </p>
+
+---
 
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linktr.ee/ahmed.mubarak1">
-    <img src="https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree">
-  </a>
   <a href="https://www.linkedin.com/in/ahmed-mubarak-8564aa303">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/ahmed.mubarak1">
+    <img src="https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
   <a href="https://url-shortener.me/APJD">
-    <img src="https://img.shields.io/badge/WhatsApp_Business-000?style=for-the-badge&logo=whatsapp">
+    <img src="https://img.shields.io/badge/WhatsApp_Business-000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:ahmed.mubarak0x1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedmubarak0x1-blip&style=for-the-badge&color=00F7FF" />
+</p>
+
 ---
 
 ## 👑 About Me
 
-- 🤖 Passionate about **AI & Automation**
-- 🔗 Building workflows with **n8n**
-- 🌐 Frontend Developer (React / HTML / CSS / JS)
-- 🧠 Problem Solving & Competitions
-- 🛠 Arduino & Raspberry Pi Projects
-- 📊 Excel, Sheets & Data Analysis with Pandas
-- 🎨 Canva Designer
-- 🛡 Basics of Cybersecurity
-- 🚀 Always learning, always evolving
+<p align="center">
+  <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" width="60%" />
+</p>
+
+- 🤖 AI & Automation Enthusiast  
+- 🧠 Advanced Prompt Engineer  
+- 🔗 n8n Workflow Builder  
+- 🌐 React / HTML / CSS / JavaScript  
+- 📊 Data Analysis with Pandas  
+- 🛠 Arduino & Raspberry Pi  
+- 🎨 UI/UX with Figma  
+- 🐳 Docker User  
+- 🧾 JSON & APIs  
+- 🧠 Competitive Programmer  
+- 🛡 Cybersecurity Basics  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json)
 
 ---
 
 ### 🤖 AI & Automation
 ![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
+![Google AI](https://img.shields.io/badge/Google_AI-000?style=for-the-badge&logo=google)
 ![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
 ---
 
-### 🔌 Hardware & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino)
-![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi)
-
----
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+### 🎨 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel)
-
----
-
-## 🔥 Featured Projects (Coming Soon)
-
-🚀 AI Automation Systems  
-🌐 Full Stack Web Apps  
-🤖 Smart Arduino Projects  
-📊 Data Analysis Tools  
-
-> More projects are on the way... Stay tuned 👀
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmubarak0x1-blip&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmubarak0x1-blip&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
