@@ -17,7 +17,7 @@
 
 <td align="center" width="70%">
 
-# Eng. Ahmed Mubarak 👑
+# Eng. Ahmed Mubarak 
 
 ### 𓂀 Pharaoh of the Digital Age | أنا لَسْتُ مِثْلَهُم، أنا مَثَلٌ لَهُمْ.
 
